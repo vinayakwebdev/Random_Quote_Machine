@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    font-family: "Pacifico", serif;
+    margin: auto;
+  }
+  #quoteText,#authorText{
+  font-family: "Aguafina Script";
+    height: auto;
+    width: 50%;
+    margin: 20px auto;
+    color: rgba(0,0,0,1);
+    background-color: rgba(200,300,260,.4);;
+    text-align: center; 
+    font-size: 36px;
+    border-radius: 15px;
+    box-shadow: -5px 5px 10px;
+    rgba(100,100,100,.8);
+    padding: 20px;
+  }
+  button {
+    font-family: "Mr De Haviland", serif;
+    height: auto;
+    width: auto;
+    margin: 20px auto;
+    color: rgba(0,0,0,1);
+    background-color: rgba(160,200,160,.8);
+    text-align: center; 
+    font-size: 36px;
+    border-radius: 15px;
+    box-shadow: -5px 5px 10px ;
+    
+  }
