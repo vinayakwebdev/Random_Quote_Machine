@@ -7,7 +7,7 @@ window.onload = function() {
     var newQuoteIndex = -1;
     var quotes        = [
         {'text': '"Stay Hungry, Stay Foolish."', 'author': '-Steve Jobs'},
-		{'text': '"Enjoy life. There’s plenty of time to be dead."', 'author': '-Anonymous'},
+		{'text': '"Enjoy life. There&apos;s plenty of time to be dead."', 'author': '-Anonymous'},
 		{'text': '"Whatever you are, be a good one."', 'author': '-Abraham Lincoln'}, 
         {'text': '"It has been my philosophy of life that difficulties vanish when faced boldly."', 'author': '-Isaac Asimov'}, 
         {'text': '"One day your life will flash before your eyes. Make sure it is worth watching."', 'author': '-Anonymous'}, 
